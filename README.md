@@ -1,0 +1,6 @@
+Code from completed Learnyounode tutorial offered by NodeSchool @ https://github.com/sethvincent/javascriptinghttps://github.com/sethvincent/javascripting
+
+## Synopsis
+
+Completed terminal based JavaScript tutorial.  Demonstrates that I can use Node.js to perform asynchonous i/o, http.
+
