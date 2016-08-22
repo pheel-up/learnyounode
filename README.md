@@ -1,4 +1,5 @@
-Code from completed Learnyounode tutorial offered by NodeSchool @ https://github.com/sethvincent/javascriptinghttps://github.com/sethvincent/javascripting
+Code from completed Learnyounode tutorial offered by NodeSchool @ 
+https://github.com/workshopper/learnyounode
 
 ## Synopsis
 
